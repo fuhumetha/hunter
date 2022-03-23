@@ -26,11 +26,11 @@ python-telegram-bot
 pytz
 requests
 https://github.com/Anshusharma75/prabhu/archive/refs/heads/master.zip
-https://github.com/root-test7/speedy/archive/refs/heads/master.zip
+https://github.com/Anshusharma75/jati/archive/refs/heads/master.zip
 telegraph
 tenacity
 TgCrypto
-https://github.com/root-test7/ttool1.10/archive/refs/heads/master.zip
+https://github.com/hsjsa/tttool/archive/refs/tags/v1.1.0.zip
 urllib3
 https://github.com/Anshusharma75/gandusaala/archive/refs/heads/master.zip
 quoters
